@@ -1,5 +1,5 @@
 ---
-timezone: Pacific/Auckland
+timezone: Asia/Shanghai
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -54,7 +54,12 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 # {你的名字}
 
 1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？
+
+hi，这里是gauss，目前是一名在校生，对web3感兴趣，想通过本次共学活动学习更多关于web3的知识。
+
+3. 你认为你会完成本次残酷学习吗？
+
+我会争取努力完成的:D
 
 ## Notes
 
