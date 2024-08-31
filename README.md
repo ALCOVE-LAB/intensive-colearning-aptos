@@ -71,9 +71,8 @@
 ## **可供参考的学习内容和路线**
 
 1. Aptos 公链机制：
-
    - 了解 Aptos 公链的架构、共识机制，Gas 模型、帐户模型、资源模型、交易与状态模型
-   <details>
+   <details> 
 
    - [共识机制](https://aptos.dev/en/network/blockchain/validator-nodes#consensus)
    - [账户模型](https://aptos.dev/en/network/blockchain/accounts)
@@ -81,38 +80,31 @@
    - [资源模型](https://aptos.dev/en/network/blockchain/resources)
    - [交易与状态模型](https://aptos.dev/en/network/blockchain/txns-states)
    </details>
-
 2. Aptos Move （初级）：
-
    - 了解 Aptos Move 的基本语法，Aptos Stdlib 的使用
-   <details>
+   <details> 
 
    - [Aptos Move Book](https://aptos.dev/en/build/smart-contracts/book)
    - [Aptos Stdlib 合约源码](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework/aptos-stdlib/sources)
    </details>
-
 3. Aptos Move （中级）：
-
    - 了解 Aptos Move Framework 和 其他官方库，并尝试部署简单的 ToDolist 合约、了解 Object 模型
-   <details>
+   <details> 
 
    - [Aptos Move Framework 合约源码](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework/aptos-framework/sources)
    - [Aptos Token 合约源码](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework/aptos-token-objects/sources)
    - [ToDolist 合约示例](https://learn.aptoslabs.com/zh/code-example/todo-list)
    - [Object 模型](https://aptos.dev/en/build/smart-contracts/objects)
    </details>
-
 4. Aptos Move （高级）：
-
    - 了解 Aptos Move 的代币标准 ，FA （同质化代币） / DA（非同质化代币），并尝试部署自己的 代币水龙头、NFT LaunchPad
-   <details>
+   <details> 
 
    - [NFT LaunchPad 合约 / 前端 示例](https://learn.aptoslabs.com/zh/code-example/fa-launchpad)
      - [Live Demo](https://fungible-asset-launchpad.vercel.app/)
    - [Fungible Asset（ 同质化代币 - FT / ERC 20 ）文档](https://aptos.dev/en/build/smart-contracts/fungible-asset)
    - [Digital Asset（ 非同质化代币 - NFT / ERC 721 ）文档](https://aptos.dev/en/build/smart-contracts/digital-asset)
    </details>
-
 5. Dapp 开发： 合约测试，React / Nextjs 与 Aptos Wallet 的链接、Ts SDK 的使用，读取链上数据、发送链上交易
 6. 新功能：Keyless 无私钥登陆，Randomness 链上随机数， Dispatchable Fungible Assets
 
@@ -162,21 +154,17 @@
   - 请加入 LXDAO TG 群组保持交流：[http://t.me/LXDAO](https://t.me/LXDAO/12418) 加入群组后请在群里报到一下方便助教记录
   - 或者添加 Aptos DevRel 微信进入 Aptos 官方微信群: logan_apt
 - 打卡：
-
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
   - 如果你不在 UTC+8 时区，需要添加时区 code 到你的 YourName.md 文件的开始，错误的时区设置可能会使自动化打卡脚本错误计算打卡时间，具体请参考：https://github.com/IntensiveCoLearning/template/blob/main/Template.md?plain=1#L1
   - 当你提交笔记时，请确保以下几点，否则打卡可能会失败：
-
     - 在 YourName.md 文档，请将笔记内容放到以下代码块中，且  `<!-- Content_START -->`  和  `<!-- Content_END -->`  不能删除:
-
     ```
     <!-- Content_START -->
     ### 日期
     笔记内容
     <!-- Content_END -->
-
+    
     ```
-
     - 日期格式为  `### 2024.07.11`，请不要随意更改
 
 ## {Aptos 残酷共学}打卡记录表
