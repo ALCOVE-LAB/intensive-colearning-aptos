@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 ### 2024.09.07
 
-笔记内容
+[搭建本地测试网](https://bityoume.github.io/intensive-colearning-aptos/%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E6%B5%8B%E8%AF%95%E7%BD%91.html)
 
 ### 2024.09.08
 
